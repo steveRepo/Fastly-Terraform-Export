@@ -20,8 +20,7 @@ To use, navigate to the fastly-export folder and run: $ python fe.py
 
 Please select "Y" when prompted to download.
 
-The export files will appear in the fastly-export folder. Please compress this folder and copy it your google drive folder (ensure permissions are set to "anyone with link") and send us a link via 
-email.
+The export files will appear in the fastly-export folder. 
 
-Feel free to reach out with any questions. 
+
 
